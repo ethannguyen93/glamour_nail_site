@@ -207,7 +207,7 @@ header{
 .logo{
     padding: 32px 22px 28px 22px;
     display: inline-block;
-    background: #fff;
+    background: rgba(255, 255, 255, 0);
     transition: all 0.3s ease 0s;
 }
 .header-8 .logo {
