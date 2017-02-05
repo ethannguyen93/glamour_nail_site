@@ -12,6 +12,12 @@ $('#about-us-link').click(function() {
   }, 'slow');
 });
 
+$('#store-policy-link').click(function() {
+  $('html,body').animate({
+    scrollTop: $("#store-policy").offset().top - smallHeaderSize - padding
+  }, 'slow');
+});
+
 $('#contact-us-link').click(function() {
   $('html,body').animate({
     scrollTop: $("#contact-us").offset().top - smallHeaderSize - padding
