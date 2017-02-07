@@ -85,7 +85,7 @@ margin: 0;
 padding: 0
 }
 .clear{clear:both}
-body {background: #EFEFEF;}
+body {background: #ffffff;}
 .browserupgrade {
     margin: 0.2em 0;
     background: #ccc;
@@ -675,7 +675,7 @@ search area
    4. banner area 
 -----------------------------------------*/
 .banner-wrapper{
-    background: #FFF;
+    background: #000;
     display: inline-block;
     width: 100%;
     padding: 30px ;
@@ -884,7 +884,7 @@ ul.color-list li.yl{background: #A52A2A;}
     text-transform: uppercase;
 }
 .social-icon span a:hover,.pro-more-option a:hover ,.product-desc h4.name a:hover {
-    color: #b18ade;
+    color: #000000;
 }
 .single-product h4.name a:hover span.amount{
     color: #757575;
@@ -1361,7 +1361,7 @@ model// quick view area
 .social-icon span { padding: 0 10px; }
 .social-icon span a {
     font-size: 30px;
-    color: #656565;
+    color: #000000;
 }
 .footer-widget{
     margin-top: 40px;
@@ -3690,8 +3690,8 @@ margin: 0px 0px 12px;
 about page 
 -------------------------*/
 .content p {
-    font-size: 14px;
-    color: #747474;
+    font-size: 16px;
+    color: #000000;
 }
 /**---------------------------
  checkout page 
