@@ -566,7 +566,7 @@ p.total{
     padding: 8px 0;
 }
 h2.first,h1.decond,p.save{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-family: Oswald;
     font-weight: 300;
 }
